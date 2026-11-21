@@ -1,47 +1,64 @@
-<img width="1547" height="2268" alt="image" src="https://github.com/user-attachments/assets/45f5bd42-331d-4a5d-99fd-822a93e25407" /><h1 align="center">👋 Hi, Dr. Monty Kumar</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:1E90FF&height=250&section=header&text=Welcome%20Warrior&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&duration=3000&lines=Tanjiro+Kamado+Mode+Activated+⚔️;Full+Stack+Developer+💻;Anime+Lover+🔥;Open+Source+Contributor+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=⚔️+Tanjiro+Kamado+Mode+Activated+⚔️;🔥+Welcome+to+My+Profile+🔥;💻+Full+Stack+Developer+💻;🌊+Water+Breathing+First+Form+🌊" />
 
 </div>
 
-<p align="center">
+---
+
+<div align="center">
+
 <img src="https://media.tenor.com/Ij6nA6N8XpgAAAAd/tanjiro-kamado.gif" width="700"/>
-</p>
+
+</div>
+
+# 👋 Hello Warrior
+
+### ⚔️ Name : Dr. Monty Kumar
+### 💻 Role : Developer
+### 🌊 Currently Learning : Full Stack Development
+### 🔥 Passion : Coding + Anime + Open Source
 
 ---
 
-# 🌊 Water Breathing Techniques
+## ⚔️ Water Breathing Techniques
 
-⚔️ First Form: Learning New Technologies  
-⚔️ Second Form: Building Cool Projects  
-⚔️ Third Form: Open Source Contributions  
-⚔️ Fourth Form: Solving DSA Problems
+🌊 First Form → HTML CSS JavaScript
+
+🌊 Second Form → React
+
+🌊 Third Form → Node.js
+
+🌊 Fourth Form → MongoDB
+
+🌊 Fifth Form → Python
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=monty-jack&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=monty-jack&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🏆 Contribution Graph
 
 <p align="center">
 
@@ -51,16 +68,36 @@
 
 ---
 
-## 🌸 Demon Slayer Quote
+## 🐍 Contribution Snake
 
-> "Set your heart ablaze." 🔥
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌊 Demon Slayer Quote
+
+> No matter how many people you may lose, you have no choice but to go on living.
+
+🔥 Tanjiro Kamado
 
 ---
 
 <div align="center">
 
-### ⚔️ Tanjiro Never Gives Up ⚔️
-
 <img src="https://media.tenor.com/UT4PTQ9wzWsAAAAC/tanjiro-demon-slayer.gif" width="500"/>
+
+### ⚔️ Keep Grinding Until You Become Hashira ⚔️
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=monty-jack&color=blueviolet&style=for-the-badge)
 
 </div>
